@@ -1,0 +1,10 @@
+export {default as Banner }from './components/Banner';
+export {default as Contact} from './components/Contact';
+export {default as Footer }from './components/Footer';
+export {default as Contact} from './components/Contact';
+export {default as MailchimpForm }from './components/MailchimpForm';
+export {default as NavBar} from './components/NavBar';
+export {default as Newsletter }from './components/Newsletter';
+export {default as Project} from './components/Project';
+export {default as ProjectCard} from './components/ProjectCard';
+export {default as Skills} from './components/Skills';
